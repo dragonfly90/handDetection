@@ -1,0 +1,9 @@
+﻿  main.cpp
+e:\opencv2.4.2\build\install\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\microsoft visual 2010\vc\include\stdio.h(234) : 参见“fopen”的声明
+f:\test\detect_tracking\demo\meanshift\main.cpp(195): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\microsoft visual 2010\vc\include\stdio.h(371) : 参见“sprintf”的声明
+f:\test\detect_tracking\demo\meanshift\main.cpp(241): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\microsoft visual 2010\vc\include\stdio.h(371) : 参见“sprintf”的声明
+  LINK : 没有找到 F:\test\detect_tracking\demo\Debug\meanshift.exe 或上一个增量链接没有生成它；正在执行完全链接
+  meanshift.vcxproj -> F:\test\detect_tracking\demo\Debug\meanshift.exe

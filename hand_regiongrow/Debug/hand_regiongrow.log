@@ -1,0 +1,10 @@
+﻿  common.cpp
+f:\test\detect_tracking\demo\hand_regiongrow\common.cpp(195): warning C4018: “<”: 有符号/无符号不匹配
+f:\test\detect_tracking\demo\hand_regiongrow\common.cpp(221): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  正在编译...
+  main.cpp
+f:\test\detect_tracking\demo\hand_regiongrow\main.cpp(31): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  LINK : 没有找到 F:\test\detect_tracking\demo\Debug\hand_regiongrow.exe 或上一个增量链接没有生成它；正在执行完全链接
+  hand_regiongrow.vcxproj -> F:\test\detect_tracking\demo\Debug\hand_regiongrow.exe

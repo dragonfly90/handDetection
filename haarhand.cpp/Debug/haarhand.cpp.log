@@ -1,0 +1,9 @@
+﻿  handDetect.cpp
+f:\test\detect_tracking\demo\haarhand.cpp\handdetect.cpp(79): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\test\detect_tracking\demo\haarhand.cpp\handdetect.cpp(79): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\test\detect_tracking\demo\haarhand.cpp\handdetect.cpp(94): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\test\detect_tracking\demo\haarhand.cpp\handdetect.cpp(95): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\test\detect_tracking\demo\haarhand.cpp\handdetect.cpp(96): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\test\detect_tracking\demo\haarhand.cpp\handdetect.cpp(97): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  LINK : 没有找到 F:\test\detect_tracking\demo\Debug\haarhand.cpp.exe 或上一个增量链接没有生成它；正在执行完全链接
+  haarhand.cpp.vcxproj -> F:\test\detect_tracking\demo\Debug\haarhand.cpp.exe

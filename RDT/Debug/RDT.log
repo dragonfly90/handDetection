@@ -1,0 +1,10 @@
+﻿  MAIN.CPP
+f:\test\detect_tracking\demo\rdt\main.cpp(104): warning C4018: “<”: 有符号/无符号不匹配
+f:\test\detect_tracking\demo\rdt\main.cpp(122): warning C4018: “<”: 有符号/无符号不匹配
+f:\test\detect_tracking\demo\rdt\main.cpp(170): warning C4305: “参数”: 从“double”到“float”截断
+f:\test\detect_tracking\demo\rdt\main.cpp(195): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+f:\test\detect_tracking\demo\rdt\main.cpp(202): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+          f:\test\detect_tracking\demo\rdt\main.cpp(185) : 忽略“i”的定义
+          f:\test\detect_tracking\demo\rdt\main.cpp(175) : 使用“i”的定义
+  LINK : 没有找到 F:\test\detect_tracking\demo\Debug\RDT.exe 或上一个增量链接没有生成它；正在执行完全链接
+  RDT.vcxproj -> F:\test\detect_tracking\demo\Debug\RDT.exe
